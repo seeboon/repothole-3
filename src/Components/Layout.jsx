@@ -59,7 +59,7 @@ function Layout() {
         setShowMap(true);
         setSkeleton(false);
         setPredicting(false);
-      }, 2500);
+      }, 500);
     }
   };
 
